@@ -1,4 +1,4 @@
-# Hi, I'm a Developer
+# Hi, I'm Peter
 
 ## 👨‍💻 About me
 I am learning web development and building projects to improve my skills.
